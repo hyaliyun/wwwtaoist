@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[38851],{18467:(e,t,s)=>{s.r(t),s.d(t,{default:()=>u});s(96540);var i=s(74848);const u=function(){return(0,i.jsx)("img",{src:"./img/head-logo.webp",alt:"Logo",style:{width:"120px",height:"auto"}})}}}]);
